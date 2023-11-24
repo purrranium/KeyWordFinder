@@ -1,0 +1,1 @@
+python main.py --jobDescriptionFile input.txt --keywordsFile keywords.json --resultFile result.json
